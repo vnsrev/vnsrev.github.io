@@ -1,0 +1,13 @@
+h1 {
+  background-color: orange;
+  font-style: normal;
+  font: serif;
+  color: red;
+}
+
+body:hover {
+  background-color: orange;
+  font-style: normal;
+  font: arial;
+  color: blue;
+}
