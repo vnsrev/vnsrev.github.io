@@ -6,7 +6,7 @@ $red: #e74c3c;
 *,
 *:before,
 *:after {
-   @include box-sizing(border-box); 
+   @include box-sizing(border-box);
 }
 
 html, body {
@@ -16,7 +16,7 @@ html, body {
 }
 
 h1 {
-   text-align: center;
+   text-align: right;
    color: #a8a8a8;
    @include text-shadow(1px 1px 0 rgba(white, 1));
 }
